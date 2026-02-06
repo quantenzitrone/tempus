@@ -1,4 +1,4 @@
-<p align="center" font-size="50px">
+<p align="center" style="font-size: 50px">
   Tempus <img height="50px" alt="Tempus icon" src="fastlane/metadata/android/en-US/images/icon-red.svg">
 </p>
 
