@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Tempus <img height="1em" alt="Tempus icon" src="fastlane/metadata/android/en-US/images/icon-red.svg"></h1>
+  <h1>Tempus <img height="30px" alt="Tempus icon" src="fastlane/metadata/android/en-US/images/icon-red.svg"></h1>
 </p>
 
 <p align="center">
