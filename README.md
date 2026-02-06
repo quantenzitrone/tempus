@@ -1,8 +1,6 @@
 <p align="center">
-  <h1>Tempus<img alt="Tempus icon" src="fastlane/metadata/android/en-US/images/icon-red.svg"></h1>
+  <h1>Tempus <img height="100%" alt="Tempus icon" src="fastlane/metadata/android/en-US/images/icon-red.svg"></h1>
 </p>
-
----
 
 <p align="center">
   <b>Access your music library on all your android devices</b>
